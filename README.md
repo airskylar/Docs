@@ -118,4 +118,4 @@ kind of polymorphic behavior.
 
 Sorry, not sorry.
 
-<div style="display:flex; justify-content:center;" ><img src="/media/scroll.svg" id="egyptian-scroll" alt="Radashi Scroll" /></div>
+<div style="display:flex; justify-content:center;" ><img src="/media/Scroll.svg" id="egyptian-scroll" alt="Radashi Scroll" /></div>
